@@ -10,7 +10,7 @@ function clickButton(obj) {
                  
     } else if (pushed == 'AC') {
 // To All Clear the digits and operations
-    display.innerHTML = '';
+    display.innerHTML = '0';
             
     } else {
         if (display.innerHTML == '0') {
